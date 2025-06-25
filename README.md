@@ -1,13 +1,3 @@
----
-
-````
-# 🧪 Laravel Mid-Level Project & Task API
-
-Este proyecto es parte de una prueba técnica para desarrollador backend Laravel.  
-Se trata de una API RESTful para gestionar proyectos y tareas con relaciones, filtros dinámicos, validaciones estrictas, auditoría con `owen-it/laravel-auditing`, documentación con L5-Swagger y monitoreo con Laravel Telescope.
-
----
-
 ## ✅ Requisitos del sistema
 
 - PHP >= 8.1
