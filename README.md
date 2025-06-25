@@ -1,6 +1,6 @@
 ---
 
-````md
+````
 # 🧪 Laravel Mid-Level Project & Task API
 
 Este proyecto es parte de una prueba técnica para desarrollador backend Laravel.  
